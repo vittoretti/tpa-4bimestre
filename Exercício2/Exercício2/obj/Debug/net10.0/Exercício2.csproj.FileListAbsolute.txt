@@ -1,0 +1,14 @@
+C:\Projeto C#\ETEC\4 bimestre\Exercício2\Exercício2\bin\Debug\net10.0\Exercício2.exe
+C:\Projeto C#\ETEC\4 bimestre\Exercício2\Exercício2\bin\Debug\net10.0\Exercício2.deps.json
+C:\Projeto C#\ETEC\4 bimestre\Exercício2\Exercício2\bin\Debug\net10.0\Exercício2.runtimeconfig.json
+C:\Projeto C#\ETEC\4 bimestre\Exercício2\Exercício2\bin\Debug\net10.0\Exercício2.dll
+C:\Projeto C#\ETEC\4 bimestre\Exercício2\Exercício2\bin\Debug\net10.0\Exercício2.pdb
+C:\Projeto C#\ETEC\4 bimestre\Exercício2\Exercício2\obj\Debug\net10.0\Exercício2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projeto C#\ETEC\4 bimestre\Exercício2\Exercício2\obj\Debug\net10.0\Exercício2.AssemblyInfoInputs.cache
+C:\Projeto C#\ETEC\4 bimestre\Exercício2\Exercício2\obj\Debug\net10.0\Exercício2.AssemblyInfo.cs
+C:\Projeto C#\ETEC\4 bimestre\Exercício2\Exercício2\obj\Debug\net10.0\Exercício2.csproj.CoreCompileInputs.cache
+C:\Projeto C#\ETEC\4 bimestre\Exercício2\Exercício2\obj\Debug\net10.0\Exercício2.dll
+C:\Projeto C#\ETEC\4 bimestre\Exercício2\Exercício2\obj\Debug\net10.0\refint\Exercício2.dll
+C:\Projeto C#\ETEC\4 bimestre\Exercício2\Exercício2\obj\Debug\net10.0\Exercício2.pdb
+C:\Projeto C#\ETEC\4 bimestre\Exercício2\Exercício2\obj\Debug\net10.0\Exercício2.genruntimeconfig.cache
+C:\Projeto C#\ETEC\4 bimestre\Exercício2\Exercício2\obj\Debug\net10.0\ref\Exercício2.dll
